@@ -46,7 +46,8 @@ This project presents an end-to-end data analytics workflow where raw Netflix da
 - `Netflix_PowerBI_Dashboard_Rakesh.pdf` — Exported dashboard  
 - `dashboard.png` — Dashboard screenshot  
 ## 📊 Preview
-![Dashboard](dashboard.png)
+![Dashboard Preview](https://raw.githubusercontent.com/rakesh-analytics-ops/netflix-powerbi-dashboard/main/thumbnail.jpg)
+
 
 ## 🚀 Live Interactive Report
 View the interactive Power BI dashboard here:  
