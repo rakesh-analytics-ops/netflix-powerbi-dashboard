@@ -38,14 +38,15 @@ This project presents an end-to-end data analytics workflow where raw Netflix da
 - Data Modeling
 - Data Visualization
 
-## 📊 Preview
-![Dashboard](dashboard.png)
+
 
 ## 📁 Repository Contents
 - `notebook.ipynb` — Python (Jupyter) notebook for data cleaning & preprocessing  
 - `cleaned_dataset.csv` — Processed dataset used in Power BI  
 - `Netflix_PowerBI_Dashboard_Rakesh.pdf` — Exported dashboard  
 - `dashboard.png` — Dashboard screenshot  
+## 📊 Preview
+![Dashboard](dashboard.png)
 
 ## 🚀 Live Interactive Report
 View the interactive Power BI dashboard here:  
